@@ -12,3 +12,6 @@ The program will then close so you can fix your error!
 If there are no errors you will be asked if you want to enter another file. Press 1 to do another or 2 to exit the program.
 
 Happy Coding!
+
+Used the book A First Book of Cpp 4th Edition for reference
+Used the base stack IP we created in class for GenStack.h
